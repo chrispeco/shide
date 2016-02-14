@@ -57,13 +57,13 @@ public class About extends JDialog {
 		lblSource.setBounds(160, 149, 61, 16);
 		contentPanel.add(lblSource);
 		
-		JHyperlink lblChrisPrezCornejo = new JHyperlink("Chris Pérez Cornejo", "https://www.stackoverflow.com/");
+		JHyperlink lblChrisPrezCornejo = new JHyperlink("Chris Pérez Cornejo", "https://www.facebook.com/christian.perez.583");
 		lblChrisPrezCornejo.setFont(new Font("Helvetica", Font.PLAIN, 12));
 		lblChrisPrezCornejo.setForeground(Color.BLACK);
 		lblChrisPrezCornejo.setBounds(241, 121, 130, 16);
 		contentPanel.add(lblChrisPrezCornejo);
 		
-		JHyperlink lblGithub = new JHyperlink("github", "https://www.stackoverflow.com/");
+		JHyperlink lblGithub = new JHyperlink("github", "https://github.com/chrispeco/shide");
 		lblGithub.setFont(new Font("Helvetica", Font.PLAIN, 12));
 		lblGithub.setForeground(Color.BLACK);
 		lblGithub.setBounds(241, 149, 61, 16);
