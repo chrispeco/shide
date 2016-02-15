@@ -15,7 +15,7 @@ Show hidden files on mac os x
 
 
 # How to use Shide
-[![IMAGE ALT TEXT HERE](http://i.imgur.com/xHSyKfc.jpg)](https://www.youtube.com/watch?v=)
+[![IMAGE ALT TEXT HERE](http://i.imgur.com/xHSyKfc.jpg)](https://youtu.be/PqPMBKWJ4I8)
 
 [JHL]: <https://sourceforge.net/projects/jhyperlink/>
 [Download]: <https://goo.gl/x4AqbY>
