@@ -1,5 +1,5 @@
 # Shide
-Show all files in mac os x
+Show hidden files on mac os x
 
 
 # Requeriments
@@ -12,6 +12,10 @@ Show all files in mac os x
 # Download
 
 * [Shide 1.0.0][Download]
+
+
+# Youtube
+[![IMAGE ALT TEXT HERE](http://i.imgur.com/vY6AQLT.jpg)](https://www.youtube.com/watch?v=)
 
 [JHL]: <https://sourceforge.net/projects/jhyperlink/>
 [Download]: <https://goo.gl/x4AqbY>
