@@ -18,4 +18,4 @@ Show hidden files on mac os x
 [![IMAGE ALT TEXT HERE](http://i.imgur.com/xHSyKfc.jpg)](https://youtu.be/PqPMBKWJ4I8)
 
 [JHL]: <https://sourceforge.net/projects/jhyperlink/>
-[Download]: <https://goo.gl/x4AqbY>
+[Download]: <https://goo.gl/Yl4uoN>
